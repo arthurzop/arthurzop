@@ -2,6 +2,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthurzop) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/artur-medeiros-de-paula-7169b8266/) 
 
+# 👨‍💻 Front-End Focused
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
