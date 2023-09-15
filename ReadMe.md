@@ -1,5 +1,5 @@
 # 🅰 About Me!
-Artur Medeiros :)
+Artur Medeiros :) <br/>
 sp - br
 
 Estudante de Desenvolvimento de Sistemas, tenho como foco a área de Front-End e UI/UX Design.
