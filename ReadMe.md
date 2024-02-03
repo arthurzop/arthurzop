@@ -1,6 +1,6 @@
 # 🅰 About Me!
 Artur Medeiros :) <br/>
-SP / BR
+São Paulo, Brasil
 
 Estudante de Desenvolvimento de Sistemas, tenho como foco a área de Front-End e UI/UX Design.
 
