@@ -5,11 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=50&duration=3800&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello!+I'm+Artur+Medeiros;I'm+a+Web+Designer%2C+from+Brasil+-+SP)](https://git.io/typing-svg)
 <br/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurzop&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucca Hiratsuca github stats" />
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzop&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  
-</div>
+
 
 <br/>
 
