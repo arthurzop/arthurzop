@@ -19,11 +19,11 @@ Background in Front-end development, with a strong focus on design and user expe
 
 <p align="center">
 <a href="https://artur-medeiros.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-466C47?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-466C47?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/artur-medeiros-7169b8266/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-466C47?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-466C47?style=for-the-badge" />
 </a>
 </p>
 
