@@ -18,7 +18,7 @@ Background in Front-end development, with a strong focus on design and user expe
 <h3 align="center">Portfolio & Connect</h3>
 
 <p align="center">
-<a href="https://seuportfolio.com" target="_blank">
+<a href="https://artur-medeiros.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-466C47?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
