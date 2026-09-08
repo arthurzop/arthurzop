@@ -80,7 +80,7 @@ Background in Front-end development, with a strong focus on design and user expe
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzop&layout=compact&theme=dark&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=arthurzop&theme=dark&hide_border=true&locale=pt_BR&timezone=UTC-03%3A00&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 <br/>
